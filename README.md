@@ -9,9 +9,9 @@ tool tailored to enterprise scenarios. MTB establishes prediction performance ev
 
 ## Quickstart
 
-1. **Install Dependencies**: Ensure you have Python and pip installed. Then, install the required dependencies using:
+1. **Install MTB**: You can install the MTB package directly from PyPI using:
     ```bash
-    pip install -r requirements.txt
+    pip install mtbenchmark
     ```
 
 2. **Load Data**: MTB implements the PyTorch dataset interface, and you can load data using the following code. For more details, refer to `example.py`:

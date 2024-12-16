@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="mtb",          # 包名
+    name="mtbenchmark",          # 包名
     version="1.0.0",                       # 版本号
     author="AgentGuo",
     author_email="841796600@example.com",

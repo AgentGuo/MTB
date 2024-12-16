@@ -1,12 +1,12 @@
-import mt_dataset
+import mtb
 from torch.utils.data import DataLoader
 import torch.nn as nn
 import torch
 
 # 创建训练集和测试集
-train_dataset = mt_dataset.MTDataset(features='svc1', split="train")
-val_dataset = mt_dataset.MTDataset(features='svc1', split="val")
-test_dataset = mt_dataset.MTDataset(features='svc1', split="test")
+train_dataset = mtb.MTDataset(features='svc1', split="train")
+val_dataset = mtb.MTDataset(features='svc1', split="val")
+test_dataset = mtb.MTDataset(features='svc1', split="test")
 
 print(f'train_size: {len(train_dataset)}, val_size: {len(val_dataset)}, test_size: {len(test_dataset)}')
 # 构建数据加载器
