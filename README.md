@@ -1,4 +1,4 @@
-[![WWW](https://img.shields.io/badge/WWW'24-PASS-orange)](https://arxiv.org/pdf/2403.20150.pdf) [![license](https://img.shields.io/github/license/AgentGuo/MTB.svg)](https://img.shields.io/github/license/AgentGuo/MTB.svg) [![Visits Badge](https://badges.pufler.dev/visits/AgentGuo/MTB)](https://badges.pufler.dev/visits/AgentGuo/MTB)
+[![WWW](https://img.shields.io/badge/WWW'24-PASS-orange)](https://dl.acm.org/doi/10.1145/3589334.3645330) [![Visits Badge](https://badges.pufler.dev/visits/AgentGuo/MTB)](https://github.com/AgentGuo/MTB)
 
 # MTB: A Time-Series Prediction Benchmarking Tool Tailored to Enterprise Scenarios
 
