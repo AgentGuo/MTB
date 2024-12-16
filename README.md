@@ -45,8 +45,6 @@ You are free to:
 - Adapt: Remix, transform, and build upon the dataset for any purpose, even commercially.
 
 **Attribution Requirement**:  
-If you use this dataset, please cite it as follows:
-
-> Dataset Name, Author Name(s), Year. Licensed under CC BY 4.0. [Link to your repository or DOI].
+If you use this dataset, please cite it.
 
 For full license details, see [CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/).
