@@ -2,6 +2,8 @@
 
 # MTB: A Time-Series Prediction Benchmarking Tool Tailored to Enterprise Scenarios
 
+> The data used by MTB comes from publicly available data from Meituan, and the raw data can be accessed from [here](https://drive.google.com/drive/folders/1MRuRtf4xScpqYWIYC5ZXqeR4F-HRW_vK?usp=sharing)
+
 ## Introduction
 
 MTB is a time-series prediction benchmarking
